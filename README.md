@@ -19,4 +19,12 @@ Here are some ideas to get you started:
 
 
 <!--START_SECTION:waka-->
+
+```text
+TypeScript   38 mins         █████████████░░░░░░░░░░░░   52.46 %
+JavaScript   28 mins         █████████▒░░░░░░░░░░░░░░░   37.98 %
+Text         5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+```
+
 <!--END_SECTION:waka-->
