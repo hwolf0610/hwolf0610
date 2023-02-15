@@ -21,12 +21,12 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```text
-JavaScript      13 hrs 17 mins  ██████████████████████░░░   87.76 %
-JSON            1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.04 %
-Objective-C++   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.02 %
-CocoaPods       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.12 %
-SCSS            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.03 %
-SQL             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+JavaScript      10 hrs 3 mins   █████████████████████▓░░░   87.23 %
+JSON            41 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
+Objective-C++   18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.66 %
+CocoaPods       10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.47 %
+SCSS            9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.36 %
+SQL             6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
