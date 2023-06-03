@@ -20,9 +20,12 @@ Here are some ideas to get you started:
 
 <!--START_SECTION:waka-->
 
-```text
-JavaScript   3 hrs 11 mins   █████████████████████████   99.53 %
-Bash         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 %
+```txt
+JavaScript   39 mins         ████████████▒░░░░░░░░░░░░   49.03 %
+JSON         38 mins         ████████████▒░░░░░░░░░░░░   48.78 %
+CocoaPods    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
+TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
