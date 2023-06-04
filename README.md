@@ -21,11 +21,11 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-JavaScript   39 mins         ████████████▒░░░░░░░░░░░░   49.03 %
-JSON         38 mins         ████████████▒░░░░░░░░░░░░   48.78 %
-CocoaPods    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
-Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
-TypeScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
+JavaScript   39 mins         █████████▓░░░░░░░░░░░░░░░   38.15 %
+JSON         38 mins         █████████▓░░░░░░░░░░░░░░░   38.02 %
+XML          22 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
+CocoaPods    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.71 %
+Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
 ```
 
 <!--END_SECTION:waka-->
