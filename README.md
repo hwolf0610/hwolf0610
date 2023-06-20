@@ -21,7 +21,9 @@ Here are some ideas to get you started:
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+JavaScript   1 hr            ████████████████████████▓   98.13 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.67 %
+JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 %
 ```
 
 <!--END_SECTION:waka-->
